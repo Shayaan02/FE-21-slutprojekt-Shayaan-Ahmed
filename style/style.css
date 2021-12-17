@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(7, 56, 7);
+    color: aliceblue;
+  }
+  div {
+    /* border: 2px solid; */
+    text-align: center;
+    padding: 1rem;
+  }
+  #five-days {
+    margin-top: 5rem;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
